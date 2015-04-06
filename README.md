@@ -1,2 +1,2 @@
-# Hello-Git
-My first repository on GitHub:)
+Hello.World
+===========First Edit and Commit:P
